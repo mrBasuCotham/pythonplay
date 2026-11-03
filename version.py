@@ -1,4 +1,3 @@
 print ("this si cool")
-for n in range (4):
+for n in ['Josh','Baran', 'Manahil','Jessica']:
     print (n)
-print ("bob")
