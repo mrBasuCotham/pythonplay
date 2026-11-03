@@ -1,0 +1,13 @@
+[
+    {"brand":"Ford", "model":"Focus", "type":"saloon","mpg":30},
+    {"brand":"Fiat", "model":"Panda", "type":"hatchback","mpg":30},
+    {"brand":"Porsche", "model":"Cayenne", "type":"SUV","mpg":30},
+    {"brand":"Land Rover", "model":"Range Rover", "type":"SUV","mpg":30},
+    {"brand":"Land Rover", "model":"Discovery", "type":"SUV","mpg":30},
+    {"brand":"VW", "model":"Golf", "type":"hatchback","mpg":30},
+    {"brand":"Mini", "model":"Cooper", "type":"hatchback","mpg":30},
+    {"brand":"VW", "model":"Polo", "type":"hatchback","mpg":30},
+    {"brand":"Audi", "model":"A1", "type":"hatchback","mpg":30},
+    {"brand":"Peugeot", "model":"208", "type":"hatchback","mpg":30},
+    {"brand":"Renault", "model":"Clio", "type":"hatchback","mpg":30}
+]
